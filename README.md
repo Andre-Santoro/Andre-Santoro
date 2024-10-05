@@ -1,4 +1,4 @@
-# Hey! Name's Andre 👋
+### Hey! Name's Andre 👋
 
 Bem-vindo ao meu perfil no GitHub!
 
@@ -55,7 +55,6 @@ Bem-vindo ao meu perfil no GitHub!
 
 - **Bancos de Dados:** MySQL, PostgreSQL
 - **Cloud & DevOps:** Docker, Kubernetes, AWS
-- **Outros:** APIs RESTful, GraphQL, Microsserviços
 
 ## Projetos
 
