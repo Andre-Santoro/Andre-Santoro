@@ -54,7 +54,6 @@ Bem-vindo ao meu perfil no GitHub!
 ## Tecnologias e Ferramentas
 
 - **Bancos de Dados:** MySQL, PostgreSQL
-- **Cloud & DevOps:** Docker, Kubernetes, AWS
 
 ## Projetos
 
