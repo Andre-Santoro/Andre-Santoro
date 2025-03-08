@@ -1,8 +1,4 @@
-### Hey! Name's Andre 👋
-
-Bem-vindo ao meu perfil no GitHub!
-
-## Sobre mim
+<h2 align="left">Olá! Name's Andre.</h2>
 
 ###
 
@@ -13,68 +9,34 @@ Bem-vindo ao meu perfil no GitHub!
 
 ###
 
-<p align="left">Sou Desenvolvedor Full-Stack na busca de oportunidades dentro desta área. Estudando progressivamente na plataforma Alura em suas formações e cursos, desenvolvendo assim uma base de conhecimento a partir de exercícios, projetos da plataforma e projetos pessoais.</p>
+<p align="left">Para mais informações, acesse meu currículo abaixo.</p>
 
 ###
 
-<h3 align="left">Linguagens Front-end</h3>
+<h3 align="left">Currículo:</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h3 align="left">Linguagens Back-end</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
-
-## Tecnologias e Ferramentas
-
-- **Bancos de Dados:** MySQL, PostgreSQL
-
-## Projetos
-
-Aqui estão alguns projetos nos quais trabalhei:
-
- **[Hub do Andre](link-para-o-projeto)**: Uma aplicação front-end com html, css e javascript.
-
-###
-
-<h2 align="left">Redes</h2>
-
-###
-
-<div align="left">
-  <a href="[https://www.youtube.com/c/fknight?sub_confirmation=1](https://www.linkedin.com/in/andre-santoro-7999b02b6/)"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<h6 align="left">https://andre-santoro.github.io/meu-curriculo/</h6>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Andre-Santoro/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Sedede">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sedede&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
