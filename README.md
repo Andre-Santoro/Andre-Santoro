@@ -18,25 +18,3 @@
 ###
 
 <h6 align="left">https://andre-santoro.github.io/meu-curriculo/</h6>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Andre-Santoro/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Sedede">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sedede&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
