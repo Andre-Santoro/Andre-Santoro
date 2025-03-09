@@ -17,4 +17,4 @@
 
 ###
 
-<a href="https://andre-santoro.github.io/meu-curriculo/" target="_blank" rel="noopener noreferrer" 
+<h6 align="left">https://andre-santoro.github.io/meu-curriculo/</h6>
