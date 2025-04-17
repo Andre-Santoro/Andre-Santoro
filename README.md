@@ -15,4 +15,4 @@
 
 ###
 
-<h6 align="left">https://andre-santoro.github.io/meu-curriculo/</h6>
+<h6 align="left">https://andre-santoro.github.io/hub-do-andre/</h6>
