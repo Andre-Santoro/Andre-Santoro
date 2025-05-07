@@ -1,14 +1,13 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img width="600" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding cute gif">
-</p>
+
 
 <h1 align="center">Olá, eu sou o Andre! 👋</h1>
 <p align="center">Desenvolvedor de software apaixonado por aprender e criar coisas legais.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="2B Dance" width="400"/>
+  <img width="300" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding cute gif">
 </p>
+
 
 ---
 
