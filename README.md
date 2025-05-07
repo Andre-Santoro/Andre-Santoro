@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Olá, eu sou o Andre! 👋</h1>
-<p align="center">Desenvolvedor de software apaixonado por aprender na busca de oportunidades dentro desta área.</p>
+<p>Desenvolvedor de software apaixonado por aprender na busca de oportunidades dentro desta área.</p>
 
-<p align="center" width="100%">
-  <img src="https://media.tenor.com/AWACh85mCUgAAAAj/nier-automata.gif" alt="2B de NieR:Automata tomando café" width="50%" />
+<p align="center">
+  <img width="250" src="https://media.tenor.com/AWACh85mCUgAAAAj/nier-automata.gif" alt="2B de NieR:Automata tomando café" width="50%" />
 </p>
 
 <!-- STATS -->
