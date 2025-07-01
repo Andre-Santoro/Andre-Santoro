@@ -10,7 +10,7 @@
 
 ##  Sobre mim
 -  Códigos, projetos e ideias reunidos no meu **Hub Pessoal**  
-   [andre-santoro.github.io/hub-do-andre]([https://andre-santoro.github.io/hub-do-andre/](https://hub-do-andre.vercel.app))  
+   <a href="https://hub-do-andre.vercel.app">https://hub-do-andre.vercel.app</a>
 
 #
 # Linguagens e Ferramentas:
