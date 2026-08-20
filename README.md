@@ -1,6 +1,5 @@
 <h1 align="center">Olá, eu sou o Andre! 👋</h1>
 <p>Sou um desenvolvedor de software em busca de aprimorar e obter mais conhecimento para se tornar um profissional capaz de trazer diferença ao mundo com a tecnologia.</p>
----
 
 ##  Sobre mim
 -  Códigos, projetos e ideias reunidos no meu **Hub Pessoal**  
