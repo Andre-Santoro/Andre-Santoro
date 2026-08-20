@@ -1,11 +1,5 @@
 <h1 align="center">Olá, eu sou o Andre! 👋</h1>
 <p>Sou um desenvolvedor de software em busca de aprimorar e obter mais conhecimento para se tornar um profissional capaz de trazer diferença ao mundo com a tecnologia.</p>
-<p><br>Sinta-se a vontade de explorar meus repositórios com códigos das linguagens que utilizo, pois está ali toda minha evolução.</p>
-
-<p align="center">
-  <img width="250" src="https://media.tenor.com/AWACh85mCUgAAAAj/nier-automata.gif" alt="2B de NieR:Automata tomando café" width="50%" />
-</p>
-
 ---
 
 ##  Sobre mim
@@ -32,17 +26,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=Andre-Santoro&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andre-Santoro&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Santoro&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
 
